@@ -1,7 +1,7 @@
 # MSc_project
 The dataset splits were downloaded from: https://www.openslr.org/12
 
-The alignment files are available in ../alignment_files.
+The alignment files are available at: https://drive.google.com/drive/folders/1n53BGCrmw3w_6p07RckfxvFyqpdhmWoi?usp=sharing.
 
 Those notebooks were designed to work on Google Colab, so make sure to modify the path if you want to run them locally.
 
